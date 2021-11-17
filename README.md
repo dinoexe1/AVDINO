@@ -7,7 +7,7 @@
 <a href="#"><img title="AVDINO" src="https://img.shields.io/badge/dinoexe1-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-dinoexe1/AVDINO?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/H90VTC8QewxLePuywTgUPD"><img title="join support" src="https://img.shields.io/badge/join_support-dinoexe1/AVDINO?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
